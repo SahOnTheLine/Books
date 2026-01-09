@@ -110,11 +110,19 @@ Many foundational resources are also available online for free (e.g., Linux From
 
 
 Zafer Demirkol- yeni başlayanlar için kodlama
+
 kodlab.com - nesneye yönelik programlama dilleri ile temiz kod
+
 kodlab.com - temel network
+
 kodlab.com - Hacking interface
+
 kodlab.com - veri bilimi için python
+
 kodlab.com - a'dan z'ye siber güvenlik
+
 prof. dr. engin sorhun - python ile makine öğrenmesi
+
 hüseyin bodur - etkili kod yazma teknikleri
+
 dawn e. holmes - büyük veri (çeviri: james cem yapıcıoğlu
