@@ -106,7 +106,7 @@ Many foundational resources are also available online for free (e.g., Linux From
 
 
 
-
+-
 
 
 Zafer Demirkol- yeni başlayanlar için kodlama
